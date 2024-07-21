@@ -1,8 +1,8 @@
 
 **Cloning an React project and running locally**
 
-### `git clone https://github.com/ParthJ1411/Personal-Project`
-### `cd Personal-Project`
+### `git clone https://github.com/ParthJ1411/Portfolio-Website-2.git`
+### `cd Portfolio-Website-2`
 
 **Look at the files and folder of the project**
 **Delete node_modules folder and package-lock.json file if exists**
