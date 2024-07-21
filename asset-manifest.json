@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website-2/static/css/main.31a9a328.css",
+    "main.js": "/Portfolio-Website-2/static/js/main.217370c6.js",
+    "static/js/592.b9739405.chunk.js": "/Portfolio-Website-2/static/js/592.b9739405.chunk.js",
+    "static/media/Dentasense.jpg": "/Portfolio-Website-2/static/media/Dentasense.d43bfb3677e478495751.jpg",
+    "static/media/QRlogo.jpeg": "/Portfolio-Website-2/static/media/QRlogo.72c9ed7c57d831f055a2.jpeg",
+    "index.html": "/Portfolio-Website-2/index.html",
+    "main.31a9a328.css.map": "/Portfolio-Website-2/static/css/main.31a9a328.css.map",
+    "main.217370c6.js.map": "/Portfolio-Website-2/static/js/main.217370c6.js.map",
+    "592.b9739405.chunk.js.map": "/Portfolio-Website-2/static/js/592.b9739405.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31a9a328.css",
+    "static/js/main.217370c6.js"
+  ]
+}
