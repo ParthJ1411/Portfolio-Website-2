@@ -1,5 +1,6 @@
 {
-  "name": "Personal_Project",
+  "homepage": "https://ParthJ1411.github.io/Portfolio-Website-2",
+  "name": "Portfolio-Website-2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,6 +23,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
