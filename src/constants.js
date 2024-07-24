@@ -15,7 +15,7 @@ export const services = [
 ];
 
 export const name = 'Parth';
-
+//Experience
 export const experiences = [
     {
         'company': 'CodeClause Inc.',
