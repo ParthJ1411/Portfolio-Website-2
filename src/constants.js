@@ -17,18 +17,6 @@ export const services = [
 export const name = 'Parth';
 
 export const experiences = [
-        {
-        'company': 'AICTE-EduSkills Foundation',
-        'role': 'AWS Cloud Virtual Intern',
-        'duration': 'July 2024 - Present',
-        'logo': 'https://upload.wikimedia.org/wikipedia/en/e/eb/All_India_Council_for_Technical_Education_logo.png',
-        'points': [
-            'Gain an understanding of various AWS services such as EC2, S3, Lambda, RDS, IAM, etc. Understand their use cases, benefits, and how they integrate with each other.',
-            'Learn fundamental concepts of cloud computing including scalability, elasticity, security, and cost optimization.',
-            'Engage in practical exercises or projects to apply AWS services to real-world scenarios. This could involve deploying applications, managing databases, or setting up serverless architectures.'
-        ],
-        'url': 'https://eduskillsfoundation.org/',
-    },
     {
         'company': 'CodeClause Inc.',
         'role': 'Web Developer Intern',
