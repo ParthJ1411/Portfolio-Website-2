@@ -6,7 +6,7 @@ import { FiMail } from 'react-icons/fi';
 
 const Footer = () => {
 	const year = new Date().getFullYear();
-
+//contact details and links
 	return (
 		<div className='bg-slate-900 p-4' style={{ cursor: 'default' }}>
 			<div className='flex justify-between flex-wrap gap-4'>
@@ -22,7 +22,6 @@ const Footer = () => {
 					<a href="https://github.com/ParthJ1411" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
 						<FaGithub className='text-xl' />
 					</a>
-					
 				</div>
 			</div>
 		</div>
