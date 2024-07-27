@@ -42,7 +42,7 @@ const Contact = () => {
 			return;
 		}
 		console.log(username,user_email,user_message)
-		// Email Details
+		// Contact Details
 		emailjs
 			.send(
 				EMAIL_JS_SERVICE_ID,
