@@ -1,4 +1,4 @@
-//About Me
+//About
 export const services = [
     {
         title: "Technology Enthusiast",
