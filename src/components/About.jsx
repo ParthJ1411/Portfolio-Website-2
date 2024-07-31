@@ -23,7 +23,7 @@ const ServiceCard = ({ service }) => (
     </div>
   </div>
 );
-//Introduction
+//Intro
 const About = () => {
   return (
     <div>
