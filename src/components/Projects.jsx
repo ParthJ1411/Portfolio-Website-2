@@ -57,7 +57,7 @@ const Projects = () => {
     );
 }
 
-// Projects
+//Projects
 export const project = [
     {
         title:'QRGuardian: Campus Patrolling System',
