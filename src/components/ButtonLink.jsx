@@ -10,6 +10,7 @@ const ButtonLink = ({ url, text, padding }) => {
       {text}
     </a>
   );
+  
 }
 
 export default ButtonLink;
