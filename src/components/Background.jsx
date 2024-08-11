@@ -13,7 +13,6 @@ const Stars = (props) => {
 		}
 		ref.current.position.z += delta / 3;
 	});
-	
 
 	return (
 		<group rotation={[0, 0, Math.PI / 4]}>
