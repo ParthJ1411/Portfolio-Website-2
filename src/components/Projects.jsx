@@ -56,7 +56,6 @@ const Projects = () => {
         </div>
     );
 }
-
 // Projects
 export const project = [
     {
