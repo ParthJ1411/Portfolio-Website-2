@@ -8,6 +8,7 @@ import Footer from './Footer';
 const Home = () => {
 	const ref = useRef(0);
 	const [text, setText] = useState('');
+	
 
 	useEffect(() => {
 		const interval = setInterval(() => {
