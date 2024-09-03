@@ -14,7 +14,6 @@ const Contact = () => {
 
 
 	const [loading, setLoading] = useState(false);
-
 	const handleChange = (e) => {
 		const { target } = e;
 		const { name, value } = target;
