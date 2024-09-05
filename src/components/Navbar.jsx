@@ -18,6 +18,7 @@ const Navbar = () => {
     window.scrollTo(0, 0);
   }, [pathname]);
 
+  
   return (
     <nav className="bg-gray-800 p-4 text-white fixed w-full z-10 top-0" style={{ cursor: 'default' }}>
       <div className="mx-auto text-center flex w-5/6 justify-between">
