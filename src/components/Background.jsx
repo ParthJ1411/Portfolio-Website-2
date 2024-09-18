@@ -28,7 +28,7 @@ const Stars = (props) => {
 		</group>
 	);
 };
- 
+
 const Background = () => {
 	return (
 		<div className='w-full h-auto absolute blur-[0.5px] inset-0 z-[-1]'>
