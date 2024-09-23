@@ -56,5 +56,5 @@ const Experience = () => {
       <Footer/>
     </div>
   )
-}
+} 
 export default Experience;
