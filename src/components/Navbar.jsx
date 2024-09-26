@@ -33,7 +33,7 @@ const Navbar = () => {
           <Link to='/experience'>Experience</Link>
           <Link to='/contact'>Contact</Link>
         </div>
-
+ 
         <div className="sm:hidden">
           <button onClick={toggleMobileMenu} className="text-xl focus:outline-none">
             {isMobileMenuOpen ? '✕' : '☰'}
