@@ -7,7 +7,7 @@ import { FiMail } from 'react-icons/fi';
 const Footer = () => {
 	const year = new Date().getFullYear();
 
-// Contact Details
+// Contact Details 
 	return (
 		<div className='bg-slate-900 p-4' style={{ cursor: 'default' }}>
 			<div className='flex justify-between flex-wrap gap-4'>
