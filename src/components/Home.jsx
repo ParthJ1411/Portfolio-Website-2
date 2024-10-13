@@ -9,7 +9,6 @@ const Home = () => {
 	const ref = useRef(0);
 	const [text, setText] = useState('');
 	
-
 	useEffect(() => {
 		const interval = setInterval(() => {
 			if (ref.current < name.length) {
