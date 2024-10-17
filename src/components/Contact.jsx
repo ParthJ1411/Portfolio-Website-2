@@ -20,7 +20,6 @@ const Contact = () => {
 			[name]: value,
 		});
 	};
-
 	const handleSubmit = (e) => {
 		e.preventDefault();
 		setLoading(true);
