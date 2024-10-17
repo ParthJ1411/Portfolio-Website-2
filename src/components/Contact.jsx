@@ -24,7 +24,7 @@ const Contact = () => {
 		e.preventDefault();
 		setLoading(true);
 
-		// cleaning the form data
+		//cleaning the form data
 		const username = form.name.trim();
 		const user_email = form.email.trim();
 		const user_message = form.message.trim();
