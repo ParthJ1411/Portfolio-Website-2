@@ -19,7 +19,7 @@ const Contact = () => {
 			...form,
 			[name]: value,
 		});
-		
+	
 	};
 	const handleSubmit = (e) => {
 		e.preventDefault();
