@@ -63,7 +63,7 @@ export const project = [
         description:'QRGuardian - Attendance and Patrolling System is a cutting-edge solution that enhances attendance tracking and security patrolling efficiency.',
         image: {QRlogo},
         git:'https://github.com/ParthJ1411/QRGuardian--Patrolling-and-Attendance-System.git',
-        technologies:['FlutterFlow' ,'Firebase' , 'QR']
+        technologies:['FlutterFlow' ,'Firebase Authentication' , 'Cloud Firestore' , 'QR']
     },
     {
         title:'DentaSense',
