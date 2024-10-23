@@ -6,7 +6,7 @@ import { FiMail } from 'react-icons/fi';
 
 const Footer = () => {
 	const year = new Date().getFullYear();
- 
+
 // Contact Details
 
 	return (
